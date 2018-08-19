@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\bin\Release\LookFile.exe
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\bin\Release\LookFile.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\bin\Release\Mail.dll
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\bin\Release\Mail.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.Cadastros.resources
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.Form1.resources
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.Properties.Resources.resources
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.csproj.GenerateResource.Cache
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.exe
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.pdb
+C:\Users\bruno\Desktop\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.exe
+C:\Users\bruno\Desktop\Ajax Tecnologia Ltda\Produtos\LookFile\LookFile\obj\x86\Release\LookFile.pdb

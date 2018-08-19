@@ -1,0 +1,19 @@
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\Mail\bin\Debug\Mail.dll
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\Mail\bin\Debug\Mail.pdb
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\Mail\obj\Debug\Mail.dll
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\Mail\obj\Debug\Mail.pdb
+G:\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Debug\Mail.dll
+G:\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Debug\Mail.pdb
+G:\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.dll
+G:\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.pdb
+G:\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\bruno.roberti\Documents\LookFile\Mail\bin\Debug\Mail.dll
+C:\Users\bruno.roberti\Documents\LookFile\Mail\bin\Debug\Mail.pdb
+C:\Users\bruno.roberti\Documents\LookFile\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\bruno.roberti\Documents\LookFile\Mail\obj\Debug\Mail.dll
+C:\Users\bruno.roberti\Documents\LookFile\Mail\obj\Debug\Mail.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Debug\Mail.dll
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Debug\Mail.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.dll
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Debug\Mail.pdb

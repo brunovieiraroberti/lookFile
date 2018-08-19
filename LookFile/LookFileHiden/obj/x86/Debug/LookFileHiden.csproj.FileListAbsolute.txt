@@ -1,0 +1,9 @@
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\LookFileHiden\bin\Debug\LookFileHiden.exe
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\LookFileHiden\bin\Debug\LookFileHiden.pdb
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\LookFileHiden\obj\x86\Debug\LookFileHiden.exe
+C:\Users\bruno.roberti\Documents\Visual Studio 2010\Projects\LookFile\LookFileHiden\obj\x86\Debug\LookFileHiden.pdb
+C:\Users\bruno.roberti\Documents\LookFile\LookFileHiden\bin\Debug\LookFileHiden.exe
+C:\Users\bruno.roberti\Documents\LookFile\LookFileHiden\bin\Debug\LookFileHiden.pdb
+C:\Users\bruno.roberti\Documents\LookFile\LookFileHiden\obj\x86\Debug\LookFileHiden.exe
+C:\Users\bruno.roberti\Documents\LookFile\LookFileHiden\obj\x86\Debug\LookFileHiden.pdb
+C:\Users\bruno.roberti\Documents\LookFile\LookFileHiden\obj\x86\Debug\LookFileHiden.csprojResolveAssemblyReference.cache

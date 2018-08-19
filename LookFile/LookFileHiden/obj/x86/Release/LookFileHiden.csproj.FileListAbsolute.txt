@@ -1,0 +1,5 @@
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFileHiden\bin\Release\LookFileHiden.exe
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFileHiden\bin\Release\LookFileHiden.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFileHiden\obj\x86\Release\LookFileHiden.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFileHiden\obj\x86\Release\LookFileHiden.exe
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\LookFileHiden\obj\x86\Release\LookFileHiden.pdb

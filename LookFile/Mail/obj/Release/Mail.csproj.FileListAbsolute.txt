@@ -1,0 +1,4 @@
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Release\Mail.dll
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\bin\Release\Mail.pdb
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Release\Mail.dll
+C:\Users\Bruno\Documents\Ajax Tecnologia Ltda\Produtos\LookFile\Mail\obj\Release\Mail.pdb
